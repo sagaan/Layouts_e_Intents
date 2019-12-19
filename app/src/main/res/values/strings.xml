@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <array name="opciones">
+        <item>Relative Layout</item>
+        <item>Linear Layout</item>
+        <item>Grid Layout</item>
+        <item>Frame Layout</item>
+        <item>Table Layout</item>
+        <item>Pizza Time</item>
+        <item>Mapas</item>
+    </array>
+</resources>
